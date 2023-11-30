@@ -22,7 +22,7 @@
     "ethereumjs-util"
   ],
   "devDependencies": {
-    "ganache-core": "2.10.2",
+    "ganache-core": "2.12.0",
     "js-scrypt": "0.2.0",
     "node-loader": "^0.6.0",
     "on-build-webpack": "^0.1.0",
@@ -30,7 +30,7 @@
     "scrypt": "6.0.3",
     "sha3": "1.2.2",
     "shebang-loader": "0.0.1",
-    "webpack": "^4.18.0",
+    "webpack": "^5.1.1",
     "webpack-cli": "3.1.0"
   },
   "repository": {
