@@ -12,7 +12,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "ethereumjs-util": "6.1.0",
+    "ethereumjs-util": "6.2.1",
     "source-map-support": "0.5.12",
     "yargs": "13.2.4"
   },
@@ -22,7 +22,7 @@
     "ethereumjs-util"
   ],
   "devDependencies": {
-    "ganache-core": "2.10.2",
+    "ganache-core": "2.13.2",
     "js-scrypt": "0.2.0",
     "node-loader": "^0.6.0",
     "on-build-webpack": "^0.1.0",
